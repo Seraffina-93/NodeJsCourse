@@ -9,9 +9,9 @@ This course is a compilation of information, it is based on the structure of "Th
 
 ## Prerequisites
 
-In order to understand this course you need basic comprehension of JavaScript language and networking.
+In order to understand this course you need basic comprehension of JavaScript language and networking. If you don't have JavaScript knowledge I would recommend you to read the Eloquent JavaScript book before doing this course, you can find it for free at https://eloquentjavascript.net/
 
 
 ## About this course
 
-I will be updating and completing the course on my free time, if you have any specific topics that you would like me to talk about please let me know.
+I will be updating and completing the course on my free time, if you have any specific topics that you would like me to talk about please let me know. 
