@@ -54,15 +54,14 @@ app.post('/api/supplies', (req, res) => {
   });
   
   function validateSuply(supply) {
-    const schema = {
+    const schema = Joi.object({
       name: Joi.string().min(3).required()
-    };
+    });
   
-    return Joi.validate(supply, schema);
+    return schema.validate(supply);
   }
+
+
   
   const port = process.env.PORT || 3000;
   app.listen(port, () => console.log(`Listening on port ${port}...`));
-
-
-
