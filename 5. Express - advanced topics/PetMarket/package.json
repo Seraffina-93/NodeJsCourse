@@ -1,0 +1,15 @@
+{
+  "name": "petmarket",
+  "version": "1.0.0",
+  "description": "API for selling pet supplies",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Seraffina",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "joi": "^17.7.0"
+  }
+}
